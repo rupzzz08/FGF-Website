@@ -12425,3 +12425,6 @@ body:has(.activities-page) .site-footer .footer-bottom {
     background-position: center;
     background-repeat: no-repeat;
 }
+#nl-badge-frame {
+    display: none !important;
+}
